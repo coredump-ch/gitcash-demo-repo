@@ -1,0 +1,5 @@
+name = "GitCash Demo"
+
+[currency]
+code = "CHF"
+divisor = 100
